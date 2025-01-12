@@ -34,12 +34,6 @@
 🌙 Night      63 commits     ██░░░░░░░░░░░░░░░░░░░░░░░░░░   12.60%
 ```
 
-## My GitHub Contributions
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nilay-09&theme=github)
-
-
-
 ## Programming Languages
 
 <p>
