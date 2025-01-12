@@ -8,12 +8,7 @@
 	current_edu = "CSIT"
     currently_learning = "Web3"
     fun_fact = "I hate Chillies"
-	hobbies = [
-   		    'Music',
-                    'Coding',
-	            'Gaming',
-		    'Sci-Fi Movies'
-	          ]
+	hobbies = ['Music','Coding','Gaming','Sci-Fi Movies']
 	
 	def getCity():
 		return maharashtra_India()
@@ -94,4 +89,4 @@
 
 
 ------
-Last Edited on - 12/01/2025
+Last Edited on - 12/01/2024
