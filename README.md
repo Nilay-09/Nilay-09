@@ -9,11 +9,11 @@
     currently_learning = "Web3"
     fun_fact = "I hate Chillies"
 	hobbies = [
-				'Music',
-                'Coding',
-			 	'Gaming',
-				'Sci-Fi Movies'
-			]
+   		    'Music',
+                    'Coding',
+	            'Gaming',
+		    'Sci-Fi Movies'
+	          ]
 	
 	def getCity():
 		return maharashtra_India()
@@ -88,8 +88,8 @@
 
 <p>
   <a href="https://portfolio-io-pink.vercel.app/"><img alt="Portfolio" title="Nilay Bhotmange Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
-  <a href="https://linkedin.com/in/nilay-bhotmange"><img alt="LinkedIn" title="Nilay Bhotmange LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://leetcode.com/nilay_bhotmange"><img alt="LeetCode" title="Nilay Bhotmange LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/nilaybhotmange/"><img alt="LinkedIn" title="Nilay Bhotmange LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://leetcode.com/u/nilaybhotmange2002/"><img alt="LeetCode" title="Nilay Bhotmange LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"></a>
 </p>
 
 
