@@ -10,7 +10,7 @@
     fun_fact = "I hate Chillies"
 	hobbies = ['Music','Coding','Gaming','Sci-Fi Movies']
 	
-	def getCity():
+	def getLocation():
 		return maharashtra_India()
 	
 	def Ambitions():
